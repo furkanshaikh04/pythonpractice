@@ -1,0 +1,2 @@
+print("I am working hard and IN SHA ALLAH one day I will be successfull ")
+# I am excited about the prospect of bringing my hands-on experience in DevOps, along with the skills honed in these projects, to a dynamic professional setting
